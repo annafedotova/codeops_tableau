@@ -2,7 +2,7 @@
 
 Presenation materials for Intro to Data Visualization with Tableau training session
 
-The worksop consists of the following parts:
+The workshop consists of the following parts:
 
 - Data Visualization Fundamentals (theory)
 - Tableau Fundamentals with Netflix dataset (practice)
